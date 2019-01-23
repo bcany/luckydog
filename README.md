@@ -19,8 +19,7 @@
 
 # 基于区块链的活动抽奖实践LUCKYDOG
 项目Github地址: [luckydog](https://github.com/bcany/luckydog)
-区块链智能合约地址: 
- [0c3ec2e3958db3036ca8d2faef15707b08a958d2214cd29df9f4db22b9a5346d](https://eospark.com/tx/0c3ec2e3958db3036ca8d2faef15707b08a958d2214cd29df9f4db22b9a5346d)
+区块链智能合约地址: [eoshiihappy1](https://eospark.com/contract/eoshiihappy1)
 
 LUCKYDOG是基于区块链EOS公链开发的一款可定制化的活动抽奖系统，具有：
 - 抽奖更公开：由智能合约（随机抽奖算法）抽奖，杜绝黑幕，用户可对算法代码进行审查，并提出修改意见和建议
