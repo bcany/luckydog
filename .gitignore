@@ -36,3 +36,5 @@ logs
 jsconfig.json
 .history
 .vscode/settings.json
+
+*.gliffy

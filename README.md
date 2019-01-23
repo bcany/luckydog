@@ -1,3 +1,5 @@
+基于区块链的活动抽奖系统 [http://luckydog.jujinpan.com](http://luckydog.jujinpan.com/)
+
 # 不用区块链，抽奖永远不会公平
 
 这一年，抽奖火爆了整个互联网<br>
@@ -16,6 +18,10 @@
 - 区块链交易公开透明，利用区块链技术的可溯源性，可对结果进行验证。一旦有人试图攻击、篡改抽奖系统，都会被人发现。
 
 # 基于区块链的活动抽奖实践LUCKYDOG
+项目Github地址: [luckydog](https://github.com/bcany/luckydog)
+区块链智能合约地址: 
+ [0c3ec2e3958db3036ca8d2faef15707b08a958d2214cd29df9f4db22b9a5346d](https://eospark.com/tx/0c3ec2e3958db3036ca8d2faef15707b08a958d2214cd29df9f4db22b9a5346d)
+
 LUCKYDOG是基于区块链EOS公链开发的一款可定制化的活动抽奖系统，具有：
 - 抽奖更公开：由智能合约（随机抽奖算法）抽奖，杜绝黑幕，用户可对算法代码进行审查，并提出修改意见和建议
 - 抽奖更透明：抽奖过程与结果在区块链上可追溯，用户可以通过合约地址与交易哈希进行查询
