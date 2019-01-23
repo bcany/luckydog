@@ -2,9 +2,8 @@
 
 这一年，抽奖火爆了整个互联网<br>
 大大小小的商家企业都开始进行抽奖活动，伴随着抽奖活动而来的，是汹涌的质疑。
-1. 10月7日上午，支付宝锦鲤信小呆，女性，年龄不大不小，容貌不美不丑，域名xinxiaodai.com一年前已由Alibaba Cloud Computing (Beijing) Co., Ltd.注册。
+1. 10月7日上午，支付宝公布年度锦鲤获奖者“信小呆”，女性，年龄不大不小，容貌不美不丑，域名xinxiaodai.com一年前已由Alibaba Cloud Computing (Beijing) Co., Ltd.注册。
 2. 11月11日，王校长宣布1万元现金抽奖的获奖名单，结果113个人中有112个是女生。
-
 各大团体、年会活动的抽奖环节，坚守了10年中奖绝缘体的角色<br>
 是巧合吗？宝宝心里哭了无数遍，为什么中奖的永远都是她不是我<br>
 这里面肯定有阴谋。有阴谋。有阴谋。。。
@@ -37,6 +36,6 @@ LUCKYDOG是基于区块链EOS公链开发的一款可定制化的活动抽奖系
 <img src="./docs/contact.png" width="200" height="200" />
 
 ## 部分系统效果图
-<img src="./docs/app/1.png" width="480" height="320" />
+<img src="./docs/app/1.jpg" width="480" height="320" />
 
-<img src="./docs/app/2.png" width="480" height="320" />
+<img src="./docs/app/2.jpg" width="480" height="320" />
